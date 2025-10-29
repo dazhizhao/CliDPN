@@ -63,7 +63,7 @@ To train the Parameter-to-Image Predictor(PIP), you can run this code:
   python pip.py
   ```
 ### Inference Stage
-For inference, it must be pointed that you should pay attention to the checkpoints path and the corresponding dataset format. Meanwhile, the impact information should be input manually in the `.py`.
+For inference, it must be pointed that you should pay attention to the checkpoints path and the corresponding dataset format. Meanwhile, the impact information should be input in the `eval.py`.
 After inputting the information, you will get an image of damage in milliseconds, which is far faster than the Finite Element simulation.</br>
 To leverge the whole ensembled deep learning model CliDPN for inference, you can run this code:
 ```sh
