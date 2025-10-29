@@ -23,8 +23,8 @@
 <!-- PROJECT LOGO -->
 <br />
 
-  <h3 align="center">Cross-information Neural Network for Low-velocity Impact 
-Damage Prediction in Laminated Composite</h3>
+  <h1 align="center">Cross-information Neural Network for Low-velocity Impact 
+Damage Prediction in Laminated Composite</h1>
 
   <p align="center">
     Dazhi Zhao<sup>1§</sup>, Yinglong Liu<sup>1§</sup>, Yujie Xiang<sup>1</sup>, Peng Zhang<sup>1</sup>, Ning Liu1<sup>*</sup>, Keke Tang<sup>1,2*</sup> <br>
