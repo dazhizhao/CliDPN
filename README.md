@@ -54,11 +54,11 @@ You can find the all the dataset and checkpoints we adopted in this paper from [
 
 ## Usage
 ### Training Stage
-To train the Damage Image Reconstructor(DIR), you can run this code:
+To train the Damage Image Reconstructor (DIR), you can run this code:
 ```sh
   python dir.py
   ```
-To train the Parameter-to-Image Predictor(PIP), you can run this code:
+To train the Parameter-to-Image Predictor (PIP), you can run this code:
 ```sh
   python pip.py
   ```
