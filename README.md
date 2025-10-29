@@ -50,7 +50,7 @@ Clone this repository to your local machine, and install the dependencies.
   pip install -r requirements.txt
   ```
 ## Dataset & Checkpoints
-You can find the all the dataset and checkpoints we adopted in this paper from [Google Drive](https://drive.google.com/file/d/1Y51FmLvJPXxGFEZudxF8U85QQQTxxpRG/view?usp=drive_link).
+You can find the all the dataset and checkpoints we adopted in this paper from [Google Drive](https://drive.google.com/drive/folders/1v2JVLk0Znr5ZEKFBWCNFKkeehHTwZ-OL?usp=drive_link).
 
 ## Usage
 ### Training Stage
