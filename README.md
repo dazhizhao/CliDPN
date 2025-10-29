@@ -27,23 +27,10 @@
 Damage Prediction in Laminated Composite</h3>
 
   <p align="center">
-    Yinglong Liu<sup>1§</sup>, Dazhi Zhao<sup>1§</sup>, Yujie Xiang<sup>1</sup>, Peng Zhang<sup>1</sup>, Ning Liu1<sup>*</sup>, Keke Tang<sup>1,2*</sup> <br>
+    Dazhi Zhao<sup>1§</sup>, Yinglong Liu<sup>1§</sup>, Yujie Xiang<sup>1</sup>, Peng Zhang<sup>1</sup>, Ning Liu1<sup>*</sup>, Keke Tang<sup>1,2*</sup> <br>
 <sup>1</sup>School of Aerospace Engineering and Applied Mechanics, Tongji University, Shanghai, 200092, China <br>
 <sup>2</sup>Key Laboratory of AI-aided Airworthiness of Civil Aircraft Structures, Civil Aviation Administration of China, Tongji University, Shanghai, 200092, China <br>
-§ Yinglong Liu and Dazhi Zhao contributed equally to the work <br>
-
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
-
+§  Dazhi Zhao and Yinglong Liu contributed equally to the work <br>
 
 <!-- ABOUT THE PROJECT -->
 ## Abstract
