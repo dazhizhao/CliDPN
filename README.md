@@ -30,7 +30,7 @@ Damage Prediction in Laminated Composite</h1>
     Dazhi Zhao<sup>1§</sup>, Yinglong Liu<sup>1§</sup>, Yujie Xiang<sup>1</sup>, Peng Zhang<sup>1</sup>, Ning Liu1<sup>*</sup>, Keke Tang<sup>1,2*</sup> <br>
 <sup>1</sup>School of Aerospace Engineering and Applied Mechanics, Tongji University, Shanghai, 200092, China <br>
 <sup>2</sup>Key Laboratory of AI-aided Airworthiness of Civil Aircraft Structures, Civil Aviation Administration of China, Tongji University, Shanghai, 200092, China <br>
-§  Dazhi Zhao and Yinglong Liu contributed equally to the work <br>
+§  Co-First Author
 
 <!-- ABOUT THE PROJECT -->
 ## Abstract
